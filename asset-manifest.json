@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abishek378/user-crud/static/css/main.ae3a9f08.css",
+    "main.js": "/abishek378/user-crud/static/js/main.cf713674.js",
+    "static/js/787.96d01803.chunk.js": "/abishek378/user-crud/static/js/787.96d01803.chunk.js",
+    "index.html": "/abishek378/user-crud/index.html",
+    "main.ae3a9f08.css.map": "/abishek378/user-crud/static/css/main.ae3a9f08.css.map",
+    "main.cf713674.js.map": "/abishek378/user-crud/static/js/main.cf713674.js.map",
+    "787.96d01803.chunk.js.map": "/abishek378/user-crud/static/js/787.96d01803.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae3a9f08.css",
+    "static/js/main.cf713674.js"
+  ]
+}
